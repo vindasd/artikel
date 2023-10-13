@@ -1,4 +1,5 @@
 Panduan menjalankan web: 
 1. Buat folder "artikel" pada htdocs, lalu letakkan semua file dari github kedalam folder "artikel"
 2. Buat database mysql dengan nama "artikel_db", lalu import database dari file artikel_db.sql 
-3. Buka browser dan ketik link http://localhost/artikel
+3. Buka file application > config > database.php dan lakukan penyesuaian database hostname, username, dan password
+4. Buka browser dan ketik link http://localhost/artikel
