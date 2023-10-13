@@ -1,0 +1,4 @@
+Panduan menjalankan web:
+1. Buat database mysql dengan nama "artikel_db", lalu export file artikel_db.sql
+2. Letakkan folder "artikel" pada htdocs
+3. Buka browser dan ketik link http://localhost/artikel
